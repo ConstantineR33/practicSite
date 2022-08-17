@@ -1,0 +1,30 @@
+.content {
+    display: flex;
+    background-color: #e4e6ed;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 98.9%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    align-items: stretch;
+    flex-direction: column-reverse;
+    justify-content: flex-start;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
+
+.contentDiv {
+    grid-area: contentDiv;
+    height: 99.8%;
+}
+
+.postsDiv {
+    height: 70%;
+    display: flex;
+}
+
+.newPostDiv {
+    height: 30%;
+    display: flex;
+}

@@ -1,0 +1,36 @@
+.headerDiv {
+    grid-area: headerDiv;
+    background-color: #372904;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    height: 89%;
+}
+
+.header {
+    grid-area: header;
+
+}
+
+.headersOptions {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    margin-top: 17px;
+    margin-right: 65%;
+}
+
+.logo {
+    color: #e4e6ed;
+    margin-left: 195px;
+}
+
+.logoImg {
+    height: 10%;
+    margin-bottom: 50px;
+}
+
+.headeroption {
+    color: #e4e6ed;
+    margin-right: 20px;
+}
