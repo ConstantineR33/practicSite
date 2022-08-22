@@ -1,0 +1,16 @@
+.shop {
+    grid-area: shop;
+}
+
+.shopProduct1 {
+    background-color: #e4e6ed;
+    margin-top: 5px;
+    height: 30.3vh;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.aShop{
+    color: black;
+    display: contents;
+}

@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+    align-content: flex-start;
+    align-items: center;
+    background-color: #e4e6ed;
+    margin-top: 5px;
+    height: 45.3%;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+.navBtnDiv{
+    margin-top: 15px;
+}
+
+.navBtn {
+    margin-left: 15px;
+    margin-top: 5px;
+}
+
+.abtn {
+    text-transform: uppercase;
+    color: black;
+    display: contents;
+}

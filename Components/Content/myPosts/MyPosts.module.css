@@ -1,0 +1,33 @@
+.newPostDiv {
+    height: 30%;
+    width: 100%;
+    display: flex;
+}
+.textArea{
+    color: rgb(14, 7, 69);
+    width: 66%;
+    height: 120px;
+    margin-top: 50px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+.myPostDiv{
+    width: 100%;
+}
+.textareaDiv{
+    width: 100%;
+}
+.aDiv{
+    display: flex;
+    text-align: center;
+    justify-content: end;
+    margin-right: 188px;
+    margin-top: 5px;
+    
+} 
+.a{
+    text-transform: uppercase;
+    color: black;
+    display: contents;
+}

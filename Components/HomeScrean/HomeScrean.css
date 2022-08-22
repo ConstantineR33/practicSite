@@ -1,0 +1,12 @@
+.HomeScrean {
+    display: grid;
+    grid-template-rows: 60px 1fr;
+    grid-template-columns: 2fr 8fr 2fr;
+    grid-template-areas:
+        'headerDiv headerDiv headerDiv'
+        'navbarDiv contentDiv shop'
+    ;
+    margin-left: 3%;
+    margin-right: 3%;
+    height: 100vh;
+}

@@ -1,0 +1,16 @@
+.incomingMessage{
+    display: flex;
+    margin-top: 10px;
+}
+.postsMessage{
+    display: flex;
+   background-color: rgb(59, 153, 180);
+   width: 370px;
+   height: 60px;
+   margin-left: 4px;
+   border-top-left-radius: 18px;
+   border-top-right-radius: 18px;
+   border-bottom-right-radius: 18px;
+   align-content: center;
+   align-items: center;
+}

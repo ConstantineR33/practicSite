@@ -1,0 +1,27 @@
+.postsMessageFromMe{
+    display: flex;
+    background-color: rgb(59, 153, 180);
+    width: 370px;
+    height: 60px;
+    margin-right: 4px;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    border-bottom-left-radius: 18px;
+    align-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+.postsMyMessage{
+    display: flex; 
+ 
+}
+.postsMessageFromMeImg{
+
+}
+.myPostMain{
+    display: flex;
+    margin-left: 320px;
+    margin-top: 10px;
+    flex-direction: row-reverse;
+ 
+}
